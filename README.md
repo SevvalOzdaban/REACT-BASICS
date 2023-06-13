@@ -1,2 +1,2 @@
 # react-router
-React router ile kontrol yapısı
+react-router-dom yapısı ile componentler arasında kontrol yapısı oluşturma
