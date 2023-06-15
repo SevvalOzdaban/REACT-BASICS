@@ -1,2 +1,3 @@
-# react-router
-react-router-dom yapısı ile componentler arasında kontrol yapısı oluşturma
+# react-basics
+
+Reacttaki popüler kütüphanelerin basit şekillerde kullanımı ve projelerin yapılandırılması
